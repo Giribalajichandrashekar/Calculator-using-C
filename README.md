@@ -1,12 +1,14 @@
 # 🧮 C Calculator
 
+A simple command-line calculator built in **C** to practice core programming concepts such as functions, modular programming, loops, switch statements, and basic mathematical operations.
+
 <p align="center">
 
 <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c"> <img src="https://img.shields.io/badge/Compiler-GCC-00599C?style=for-the-badge&logo=gnu"> <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows"> <img src="https://img.shields.io/badge/Terminal-MSYS2%20UCRT64-5C2D91?style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
 
 </p>
 
-A simple command-line calculator built in **C** to practice core programming concepts such as functions, modular programming, loops, switch statements, and basic mathematical operations.
+
 
 
 ## ✨ Features
