@@ -9,7 +9,7 @@ int main()
     while (1)
     {
         printf("\n==============================");
-        printf("\n     CALCULATOR USING C");
+        printf("\n        C CALCULATOR");
         printf("\n==============================");
 
         printf("\n1. Addition");
